@@ -13,8 +13,6 @@ my_id = {}
 
 user_dict = {}
 
-
-
 menu_keyboard = types.ReplyKeyboardMarkup(resize_keyboard=True, one_time_keyboard=False)
 btn_follow = types.KeyboardButton('Подписки (coming  soon)')
 btn_premium = types.KeyboardButton('Премиум')
